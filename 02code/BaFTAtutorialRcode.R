@@ -43,7 +43,7 @@ setwd("~/FERNANDO/MEETINGS/WORKSHOPS/2025.Oxford.BaSTA.BaFTA/BaSTA_BaFTA_Worksho
 source("02code/BaFTAextraFunctions.R")
 
 # Load aggregated data:
-datAggr <- read.csv(file = "03data/BaFTA/tables/speciesFert.csv")
+datAggr <- read.csv(file = "03data/BaFTA/speciesFert.csv")
 
 # Load individual data:
 datIndivSimp <- read.csv(file = "03data/BaFTA/indivSimpFert.csv")
