@@ -13,3 +13,18 @@ If you prefer to download a .zip file, click on the green `Code` button in the u
 
 ![](/04images/DownloadZIP.png)
 
+## Installing BaSTA and BaFTA
+To install both packages, I recommend that you use the latest versions in GitHub. You can install them by using the following code in R or Rstudio:
+```R
+# Install and load 'devtools':
+install.packages("devtools")
+library(devtools)
+
+# Install BaSTA:
+install_git("https://github.com/fercol/basta2.0", subdir = "pkg/")
+
+# Install BaFTA:
+install_git("https://github.com/fercol/BaFTA", subdir = "pkg/")
+```
+
+
