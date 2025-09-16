@@ -1,6 +1,6 @@
 # Bayesian Demographic Trajectory Analysis: BaSTA and BaFTA workshop.
 
-The purpose of this workshop is to explain recent updates to the R package `BaSTA` (Bayesian Survival Trajectory Analysis), including the ability to analyze census data and other new features. Also, it introduces its sister package, `BaFTA` (Bayesian Fertility Trajectory Analysis) for inference on age-specific fertility from aggregated or individual-level data. As with BaSTA, BaFTA allows making inferences even when reproductive events are missing or when the ages of some of the parents are unknown while facilitating testing different functional forms for the age-specific trajectory of fertility. 
+The purpose of this workshop is to explain recent updates to the R package [`BaSTA`](https://github.com/fercol/basta2.0) (Bayesian Survival Trajectory Analysis), including the ability to analyze census data and other new features. Also, it introduces its sister package, [`BaFTA`](https://github.com/fercol/BaFTA) (Bayesian Fertility Trajectory Analysis) for inference on age-specific fertility from aggregated or individual-level data. As with BaSTA, BaFTA allows making inferences even when reproductive events are missing or when the ages of some of the parents are unknown while facilitating testing different functional forms for the age-specific trajectory of fertility. 
 
 ## How to download the workshop material?
 
